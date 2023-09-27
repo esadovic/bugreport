@@ -12,7 +12,7 @@ Actual results:
 
 Expected results:
 
-Environment/reproduced on:
+Environment/reproduced on: Verzija aplikacije, Operativni sistem, Browser
 
 Attachment:
 
